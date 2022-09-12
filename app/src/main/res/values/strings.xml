@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">LinearLayout</string>
+    <string name="name" translatable="false">Jaromir Alexis</string>
+    <string name="yellow_star" translatable="false">Yellow star</string>
+    <string name="bio" translatable="false">Hola, mi nombre es Jaromir Alexis.
+\n\nCuando era niño no solía practicar algún deporte ni ejercicio en general pero al crecer me fue
+        gustando más las actividades al aire libre como el MTB.
+\nPero no solo eso, sino que ya desde hace unos tres meses salto la cuerda lo que me hace sentir muy
+        relajado después de cada sesión lo que me ayuda a concentrarme
+\n\nEn estos últimos días he visto cursos relacionados con el uso de git y de github, ya que he
+        notado que la suelo usar mucho pero no conozco muchas de las herramientas que contienen lo
+        que me hace darme cuenta que me limito mucho al usarlo, lo cual quise mejorar.
+</string>
+    <string name="verde_img" translatable="false">verde</string>
+</resources>
